@@ -1,6 +1,4 @@
 
----
-
 ```markdown
 # 🐾 Cat vs Dog Image Classifier with TensorFlow & FastAPI
 
