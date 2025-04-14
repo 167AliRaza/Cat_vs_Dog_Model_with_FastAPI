@@ -1,0 +1,13 @@
+[project]
+name = "cat-vs-dog-model-with-fastapi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi[standard]>=0.115.12",
+    "pillow>=11.2.1",
+    "tensorflow>=2.19.0",
+    "tensorflow-io-gcs-filesystem==0.31.0",
+    "uvicorn>=0.34.1",
+]
