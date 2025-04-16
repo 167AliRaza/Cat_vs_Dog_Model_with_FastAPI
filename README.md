@@ -50,7 +50,6 @@ cat-dog-classifier/
 └── README.md                     # This file
 ```
 
----
 
 ## 🚀 Getting Started
 
@@ -61,11 +60,6 @@ git clone https://github.com/yourusername/cat-dog-classifier.git
 cd cat-dog-classifier
 ```
 
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 ### 3. Train the model
 
