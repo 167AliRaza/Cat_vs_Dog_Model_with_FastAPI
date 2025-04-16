@@ -28,7 +28,7 @@ A complete deep learning project that trains a Convolutional Neural Network (CNN
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```
 cat-dog-classifier/
@@ -51,7 +51,7 @@ cat-dog-classifier/
 ```
 
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
 ### 1. Clone the repo
 
