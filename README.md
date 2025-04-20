@@ -1,5 +1,4 @@
 
-```markdown
 # 🐾 Cat vs Dog Image Classifier with TensorFlow & FastAPI
 
 A complete deep learning project that trains a Convolutional Neural Network (CNN) to classify images as **cats or dogs**, and deploys it using a **FastAPI** endpoint for real-time prediction.
